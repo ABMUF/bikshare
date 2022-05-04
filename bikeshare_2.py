@@ -162,7 +162,7 @@ def trip_duration_stats(df):
     td = str(datetime.timedelta(seconds= int(df['Trip Duration'].sum())))
     print("\n Total Trips Duration is   {} \n".format(td))
 
-    # display mean travel time
+    # display mean travel time (Average)
     Md = str(datetime.timedelta(seconds= int(df['Trip Duration'].mean())))
     print("\n The Average for Trips Duration is   {} \n".format(Md))
 
