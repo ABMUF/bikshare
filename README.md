@@ -4,7 +4,7 @@
 2022/05/03
 
 ### Project Title
-Bikeshare analysis
+Bicycle-sharing systems analysis
 
 ### Description
 we take raw data about bikers rents and create an interactive experience in the 
